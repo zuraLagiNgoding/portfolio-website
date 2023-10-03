@@ -8,12 +8,18 @@ const config: Config = {
   ],
   theme: {
     extend: {
-      backgroundImage: {
-        'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
-        'gradient-conic':
-          'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
-      },
-    },
+			colors: {
+				primary: "#151515",
+				secondary: "#242424",
+				third: "#D9D9D9",
+
+				accent: "#00BFE9",
+			},
+      dropShadow: {
+				'lightBlue': '0 15px 25px rgba(69, 144, 246, 0.8)',
+				'secondaryLightBlue': '0 15px 40px rgba(69, 144, 246, 0.8)',
+			}
+		},
   },
   plugins: [],
 }
