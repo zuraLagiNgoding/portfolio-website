@@ -7,6 +7,7 @@ export const techs = [
     "/techs/html.png",
     "/techs/css.png",
     "/techs/javascript.png",
+    "/techs/typescript.png",
     "/techs/nodejs.png",
     "/techs/react.png",
 ]
@@ -47,7 +48,7 @@ export const projects = [
             "/techs/cs.png",
             "/techs/html.png",
             "/techs/css.png",
-            "/techs/javascript.png",
+            "/techs/typescript.png",
             "/techs/nodejs.png",
             "/techs/react.png",
         ]
@@ -67,7 +68,7 @@ export const projects = [
             "/techs/cs.png",
             "/techs/html.png",
             "/techs/css.png",
-            "/techs/javascript.png",
+            "/techs/typescript.png",
             "/techs/nodejs.png",
             "/techs/react.png",
         ]

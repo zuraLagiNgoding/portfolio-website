@@ -48,8 +48,8 @@ export default function Home() {
     <>
       
       <div id="index" className="h-screen w-full relative ">
-        <div className="z-[55] p-4 fixed w-full bottom-0 flex justify-center">
-          <div className="flex bg-slate-300 text-primary gap-2 font-semibold rounded-full py-2 px-3 items-center">
+        <div className="z-[55] p-4 fixed w-full bottom-0 flex justify-center ">
+          <div className="flex bg-slate-300 shadow-lg text-primary gap-2 font-semibold rounded-full py-2 px-3 items-center">
             <a href="#index" className="cursor-pointer transition duration-300 group flex gap-2 border border-transparent hover:border-white rounded-full py-1 px-3 overflow-hidden">
                 <AiFillHome size="24"/>
                 <span className="duration-500 hidden opacity-0 group-hover:block group-hover:opacity-100 transition-opacity">
