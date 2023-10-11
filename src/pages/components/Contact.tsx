@@ -38,7 +38,7 @@ export default function Contact() {
                   <AiFillGithub size="32"/>
               </i>
             </a>
-            <a href="">
+            <a href="https://www.instagram.com/z.zuraaa_/">
               <i>
                   <AiOutlineInstagram size="32"/>
               </i>

@@ -7,6 +7,7 @@ import About from "./components/About";
 import clsx from "clsx";
 import { motion } from 'framer-motion'
 import {  AiFillHome } from "react-icons/ai";
+import gambar from "@/../public/me-hd.png"
 
 export default function Home() {
 
@@ -70,7 +71,7 @@ export default function Home() {
               </motion.p>
             </motion.div>
             <div className="">
-              <Image className="absolute w-auto h-auto right-[-5rem] top-[-5rem] 2xl:right-60 2xl:top-[15rem] 2xl:scale-150 transition duration-500 grayscale blur-[2px] hover:grayscale-0 hover:blur-none" alt="me" src="/me-hd.png" width={800} height={800}/>
+              <img className="block absolute right-[-5rem] top-[-5rem] 2xl:right-60 2xl:top-[15rem] transition duration-500 grayscale blur-[2px] hover:grayscale-0 hover:blur-none" alt="Me" src="/me-hd.png" width="800" height="800"/>
               {/* <Image className="absolute right-[4rem] top-12 2xl:right-60 2xl:top-[15rem] 2xl:scale-150" alt="me" src="/me-hd.png" width={400} height={400}/> */}
             </div>
           </div>

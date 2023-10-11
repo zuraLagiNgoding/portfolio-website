@@ -26,7 +26,7 @@ export default function MainLayout (props: MainLayoutProps) {
                   <AiFillGithub size="32"/>
               </i>
           </a>
-          <a className='rounded-full transition duration-150 border-2 border-transparent hover:border-white p-1' href="">
+          <a className='rounded-full transition duration-150 border-2 border-transparent hover:border-white p-1' href="https://www.instagram.com/z.zuraaa_/">
               <i>
                   <AiOutlineInstagram size="32"/>
               </i>
